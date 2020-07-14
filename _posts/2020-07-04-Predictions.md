@@ -35,14 +35,4 @@ If this all sounds like a Dilbert cartoon, well...
 
 ![](../assets/images/dilbert_estimating_5.jpg)
 
-**How the Hell Did We Get Here?**
-
-Part of the problem, and I'm specifically speaking about IT and Software Development initiatives is that most organizations view IT initiatives as an expense and therefore, it is to be tightly controlled via scope, budget, date.
-
-<<<<<<< HEAD
-Modern organizations don't look at it this way... At modern organizations, a Software Development initiative is an investment. Using this mindset, the modern organization is more willing to
-=======
-Modern organizations don't look at it this way... At modern organizations, a Software Development initiative is an investment. Using this mindset, the modern organization is more willing to
->>>>>>> 1ba05480a043b6f46b17538f436b7fcec72c694c
-
 I'll write a follow up post shortly to unpack alternative approaches to planning using a value based approach.
