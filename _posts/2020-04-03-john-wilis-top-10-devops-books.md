@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "John Willis' Top 10 DevOps Books"
+title:  "Top 10 DevOps Books"
 author: kevin
 categories: [ Books ]
-image: assets/images/devops_big.png
+#image: assets/images/3.jpg
 tags: [featured]
 ---
 

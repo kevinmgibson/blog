@@ -1,38 +1,44 @@
 ---
 layout: post
-title:  "There is No Crystal Ball — Why Using Estimates to Plan Your Portfolio is Wrong"
+title:  "Nobody Has a Magic Crystal Ball — Why Using Estimates to Plan Complex Initiatives is a Harmful Practice"
 author: kevin
 categories: [ Hands-On ]
 image: assets/images/crystal.png
 tags: [featured]
 ---
 
-We need to stop using estimation as a legitimate approach to planning.
+We need to stop believing that estimates are a reliable input to the initiative planning process. Instead, we should plan and prioritize initiatives based on value.
 
-Unless you work in an ultra stable environment in which very little ever changes, then using estimation to plan a complex initiative will only hurt, not help.
+Am I saying that estimates have no place in the planning process? No, I'm not saying that. Estimation does have it's place, when properly applied.
 
-Why?
+While estimation may work in low complexity, stable environments, it is generally not a reliable approach and usually causes more harm than good.
 
-Because the estimates are based on a point in time at which you know the very least and the estimate aka "prediction" is almost sure to be wrong. In some cases, very wrong. Not to mention that the backlog will almost certainly change several times making all the estimation pointless.
+Consider Healthcare.gov, originally estimated to cost $95 million dollars... [Actual cost was $1.7 billion or roughly 17 times the original estimate.](https://en.wikipedia.org/wiki/HealthCare.gov#Statistics). Of course, cost overruns of that magnitude are not entirely attributed to poor estimation, many other factors were at play in that debacle. That said, in all walks of life, there are volumes of examples to prove that estimation is an unreliable tool that should be applied carefully.
 
-Estimates also have a funny way of rather conveniently being nipped and tucked to align with quarterly business plans and budgets rather than aligning to actual reality. And all those massive assumptions, risks and dependencies are noted and shoved down into the appendix of the proposal doc.
+**Why are we so bad at estimating?**
 
-The original estimates are further diluted to lower cost and reduce timeline and then, bickety bam, the projects are locked and loaded, and **those unrealistic estimates becomes the official plan**. Ooof!
+Humans are hard wired to drastically underestimate the actual time, cost and risk required to complete tasks, projects, initiatives etc. Even when past experience tells us that it will take longer, our brains short circuit and default to a "best case scenario" mental model, and we tell ourselves, "this time will be different."
 
-What happens next is a vicious and harmful cycle in which expectation collides violently with reality.
+This is known as "Planning Fallacy", a concept first introduced by Daniel Kahneman and Amos Tversky way back in 1979.
 
-If you stand back and look at the big picture, you'll see that customer retention, net promoter score, brand sentiment, profitability, cash flow, employee engagement and employee attraction and retention will all take successive hits.
+Basically, planning fallacy happens when we try to estimate anything complex, we naturally apply our own personal bias, and skew our ability to be objective and estimate accurately.
 
-If this all sounds like a Dilbert cartoon, well...
+**Agile to the rescue!**
 
-![](../assets/images/dilbert_estimating_1.gif)
+Using iterative and incremental software development practices i.e. "Agile" recognizes that by planning work in short cycles it becomes easier to estimate by referencing previous examples, patterns and results.
 
-![](../assets/images/dilbert_estimating_2.gif)
+But here's the rub...
 
-![](../assets/images/dilbert_estimating_3.gif)
+When estimation is used upfront, at a point in time in which the absolute least is known, and the estimate is considered reliable enough to serve as the basis for creating the release plan, budget, resourcing, and scope, then the delivery teams, whether Agile or not, are already trapped and potentially doomed to fail.
 
-![](../assets/images/dilbert_estimating_4.png)
+In this scenario, delivery teams are victims of a vicious cycle where expectation violently collides with reality.
 
-![](../assets/images/dilbert_estimating_5.jpg)
+And this is a truly really harmful and prevalent practice which ultimately affects customer perception, team engagement, employee attraction and referrals, and overall business performance.
+
+**So, are you saying to never use estimation?**
+
+Going back to the start of this post, I'm not saying that estimates aren't useful, there is a place for them, and I'm writing a follow up post to unpack how we can use estimates as an input to the overall planning process.
+
+What we must acknowledge is that estimations are largely influenced by personal bias and so we must use them carefully to avoid causing undue harm.
 
 I'll write a follow up post shortly to unpack alternative approaches to planning using a value based approach.

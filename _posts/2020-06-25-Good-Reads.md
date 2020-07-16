@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Reading List"
+title:  "2 Minute Book Reviews"
 author: kevin
 categories: [ Book Reviews ]
-image: assets/images/bookshelf_big.png
+#image: assets/images/bookshelf.png
 tags: [featured]
 
 ---

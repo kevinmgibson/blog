@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Insanely Great Quotes on Software Dev, Product, Agile & Leadership..."
+title:  "Great Quotes"
 author: kevin
 categories: [ Mindset ]
-image: assets/images/noun_broadcast_2543949.png
+#image: assets/images/3.jpg
 tags: [featured]
 ---
 
-I compiled and categorized a list of interesting and thought provoking quotes on topics such as software dev, product, agile, leadership etc...
+
 
 ### Productivity
 

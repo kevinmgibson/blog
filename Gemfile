@@ -5,6 +5,7 @@ ruby RUBY_VERSION
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 gem 'github-pages'
+
 #     bundle exec jekyll serve
 #
 
