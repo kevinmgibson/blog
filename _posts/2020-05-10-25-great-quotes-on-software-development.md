@@ -3,7 +3,7 @@ layout: post
 title:  "Great Quotes"
 author: kevin
 categories: [ Mindset ]
-#image: assets/images/3.jpg
+image: assets/images/megaphone.png
 tags: [featured]
 ---
 

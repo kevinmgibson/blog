@@ -3,7 +3,7 @@ layout: post
 title:  "How to Write Great OKRs"
 author: kevin
 categories: [ OKR ]
-#image: assets/images/bullseye.png
+image: assets/images/bullseye.png
 tags: [featured]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Top 10 DevOps Books"
 author: kevin
 categories: [ Books ]
-#image: assets/images/3.jpg
+image: assets/images/devops_big.png
 tags: [featured]
 ---
 
